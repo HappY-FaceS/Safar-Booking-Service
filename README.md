@@ -30,6 +30,8 @@
  ```
 
  - Once you've added your DB config as listed above,go to the src folder from your terminal and excute the command `npx sequelize db:create`
- and then execute 
+ and then run `npx sequelize db:migrate`
 
+ and start the server using `npm start`
 
+ 
